@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "question": "What is SARAS AI Institute?",
+      "answer": "SARAS AI Institute is a leading research organization dedicated to advancing artificial intelligence technologies and their applications in various fields."
+    },
+    {
+      "id": 2,
+      "question": "What areas of AI does SARAS focus on?",
+      "answer": "SARAS focuses on various areas of AI, including machine learning, natural language processing, computer vision, and robotics."
+    },
+    {
+      "id": 3,
+      "question": "How can I apply for a research position at SARAS?",
+      "answer": "To apply for a research position, please visit our Careers page and submit your application along with your CV and research statement."
+    },
+    {
+      "id": 4,
+      "question": "Does SARAS offer internship programs?",
+      "answer": "Yes, SARAS offers internship programs for undergraduate and graduate students. Check our Internships page for current opportunities and application deadlines."
+    },
+    {
+      "id": 5,
+      "question": "How can I collaborate with SARAS on a research project?",
+      "answer": "If you're interested in collaborating with SARAS, please reach out to our partnerships team at partnerships@sarasai.org with a brief proposal of your research idea."
+    }
+  ]
